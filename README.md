@@ -11,9 +11,9 @@ Utilizing Minimap2 and Samtools for efficient data processing and analysis."
 - [minimap2](https://github.com/lh3/minimap2)
 
 ## Installation
-Align FASTQ to reference genome using minimap2:
-Convert SAM to BAM using samtools:
-Replace ref_genome.fa, SRR26624132_1.fastq, and SRR26624132_2.fastq with your actual files.
+##Align FASTQ to reference genome using minimap2:
+##Convert SAM to BAM using samtools:
+##Replace ref_genome.fa, SRR26624132_1.fastq, and SRR26624132_2.fastq with your actual files.
 
 
 ```bash
